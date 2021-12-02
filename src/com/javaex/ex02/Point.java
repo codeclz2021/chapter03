@@ -39,18 +39,6 @@ public class Point{
 		return "Point [x=" + x + ", y=" + y + "]";
 	}
 
-	@Override
-	public boolean equals(Object obj) {
 
-		
-		// a.x==b.x &&  a.y==b.y
-
-		
-		return super.equals(obj);
-	}
-
-	
-	
-	
 	
 }
