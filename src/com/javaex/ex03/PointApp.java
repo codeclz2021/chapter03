@@ -14,10 +14,10 @@ public class PointApp {
 		System.out.println(d==c);
 
 		System.out.println("=======================");
-		System.out.println(a.equals(b));
+		System.out.println(a.equals(b));  
 		System.out.println(b.equals(c));
 		
-		
+		System.out.println(a);
 	}
 
 }

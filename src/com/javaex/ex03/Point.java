@@ -33,10 +33,9 @@ public class Point{
 	}
 
 	// 메소드 일반
-
 	@Override
 	public String toString() {
-		return "Point [x=" + x + ", y=" + y + "]";
+		return "Point(포인트) [x=" + x + ", y=" + y + "]";
 	}
 
 	
